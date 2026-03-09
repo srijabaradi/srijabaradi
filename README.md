@@ -24,7 +24,7 @@
 
 **Tools & Platforms**: Git, GitHub, VS Code
 
-**Languages**: Python, SQL
+**Languages**: Python, Java, C
 
 
 <hr>
