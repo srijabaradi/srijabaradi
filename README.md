@@ -1,12 +1,20 @@
 <div align="left">
   <h2>Hi 👋, I'm Srija</h2>
-  <p>A AI & Data Science student.</p>
+  <p>AI & Data Science student passionate about Data Analytics and solving real-world problems using data.</p>
 </div>
 
-<div>
-<p>I’m passionate about Data Analytics and solving real-world problems using data.</p>
-<p>Skilled in data cleaning, analysis, and visualization to extract meaningful insights from datasets.</p>
-<p>Beyond technology, I enjoy design and creative work, and have won tournaments in basketball, throwball, and declamation which strengthened my teamwork and leadership skills.</p>
+<ul>
+  <li>Skilled in data cleaning, analysis, and visualization</li>
+  <li>Experienced with Python, SQL, Excel, and Power BI</li>
+  <li>Strong foundation in Data Structures & Algorithms</li>
+</ul>
+<p>Beyond technology, I enjoy design and creative work.</p>
+
+<ul>
+<li>Won tournaments in Basketball and Throwball</li>
+<li>Active in creative design and traditional artwork</li>
+<li>Strong teamwork and leadership skills</li>
+</ul>
 
 - **Open to internships and opportunities in Data Analytics**
 </div>
@@ -24,7 +32,7 @@
 
 **Tools & Platforms**: Git, GitHub, VS Code
 
-**Languages**: Python, Java, C
+**Languages**: Python, C
 
 
 <hr>
