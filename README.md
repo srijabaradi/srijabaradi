@@ -39,8 +39,10 @@
 
 ## Projects
 - **Weather App** – A Python-based weather application built with PyQt5 that provides real-time weather updates using the OpenWeatherMap API and automatically detects the user’s location through IP Geolocation, while also allowing manual city search.
+  
 - **Netflix Content Analysis Dashboard 📊** - This project analyzes Netflix's content catalog using Python for exploratory data analysis (EDA) and Power BI for interactive visualization.
-
+  
+- **Global Layoffs Analysis** - This project analyzes global layoff trends across companies, industries, and countries using real-world data. It follows a complete pipeline from data cleaning to SQL-based analysis and dashboard visualization.
 
 ## Contact
 - [Email](srijabaradi@gmail.com)
